@@ -72,7 +72,7 @@ class App extends Component {
     return (
       <div>
         <h1>Speed game</h1>
-        <p>Your score is: {this.state.score}</p>
+        <p style={{ color: "white" }}>Your score is: {this.state.score}</p>
         <Circle
           buttonColor="#d52468"
           active={this.state.current === 1}
