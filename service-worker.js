@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nopeuspeli/precache-manifest.a83217b6e74577abee447a001d44daec.js"
+  "/nopeuspeli/precache-manifest.7a2828c8e8410932b582f668be55e4d0.js"
 );
 
 self.addEventListener('message', (event) => {
