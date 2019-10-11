@@ -1,0 +1,2 @@
+body{background-color:#163a56}body,h1{text-align:center}h1{color:#add8e6}.Circle{width:150px;height:150px;border-radius:50%;background-color:#efefef;margin:20px;display:inline-block;box-shadow:0 0 3px 2px #333}.Circle.active{box-shadow:inset 0 0 15px #333}div.Circle.active{background-color:beige;box-shadow:0 0 15px rgba(red,green,blue,alpha)}.gameoverbox{background-color:#fff;padding:100px 0 0;width:40%;height:15%;justify-content:center}
+/*# sourceMappingURL=main.360d1f10.chunk.css.map */

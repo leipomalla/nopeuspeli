@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/nopeuspeli/static/css/main.360d1f10.chunk.css",
+    "main.js": "/nopeuspeli/static/js/main.504336d3.chunk.js",
+    "main.js.map": "/nopeuspeli/static/js/main.504336d3.chunk.js.map",
+    "runtime-main.js": "/nopeuspeli/static/js/runtime-main.8d3a3529.js",
+    "runtime-main.js.map": "/nopeuspeli/static/js/runtime-main.8d3a3529.js.map",
+    "static/js/2.81aea8aa.chunk.js": "/nopeuspeli/static/js/2.81aea8aa.chunk.js",
+    "static/js/2.81aea8aa.chunk.js.map": "/nopeuspeli/static/js/2.81aea8aa.chunk.js.map",
+    "index.html": "/nopeuspeli/index.html",
+    "precache-manifest.a83217b6e74577abee447a001d44daec.js": "/nopeuspeli/precache-manifest.a83217b6e74577abee447a001d44daec.js",
+    "service-worker.js": "/nopeuspeli/service-worker.js",
+    "static/css/main.360d1f10.chunk.css.map": "/nopeuspeli/static/css/main.360d1f10.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d3a3529.js",
+    "static/js/2.81aea8aa.chunk.js",
+    "static/css/main.360d1f10.chunk.css",
+    "static/js/main.504336d3.chunk.js"
+  ]
+}
